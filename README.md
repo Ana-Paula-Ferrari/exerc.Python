@@ -1,2 +1,2 @@
-# exerc.Python
+# Python
  
